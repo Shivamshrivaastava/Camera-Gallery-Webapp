@@ -17,3 +17,9 @@ All the data is stored in the IndexDB storage system, therefore, no loss of data
 
 Technologies Used:
 HTML, CSS, JavaScript, IndexDB, MediaSreams, Canvas APIs.
+
+
+
+
+
+https://shivamshrivaastava.github.io/Camera-Gallery-Webapp/

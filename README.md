@@ -1,14 +1,23 @@
-This application can click pictures and record videos with the filters applied to it..
-one can zoom in and zoom out and add filters to the media..
-with the help of canvas it captures the image..
-This application also has feature of screen-recording..
-all media will be save in the gallery with the file name provided by you..
-media can be downloaded and deleted from gallery..
-the gallery data can be filtered acoridng to images, videos and screen recording..
-All the data is stored in indexDB storage system so that there is no loss of data..
+Camera Application
+Description
+The project is about a web-based camera application. The features of this application are :-
 
+Features
+The application can click pictures and record videos with the filters applied to it.
 
+One can zoom in, zoom out and add filters to the media.
 
+With the help of canvas it captures the image.
 
-TECHNOLOGIES USED :-
-HTML, CSS, JAVASCRIPT, IndexDB, MediaStreams, CANVAS APIs
+The application also has the feature of screen recording.
+
+All the media will be saved in the gallery with the file name provided by you.
+
+The media can be downloaded and deleted from the gallery.
+
+The gallery data can be filtered according to Images, Videos, and Screen Recording.
+
+All the data is stored in the IndexDB storage system, therefore, no loss of data.
+
+Technologies Used:
+HTML, CSS, JavaScript, IndexDB, MediaSreams, Canvas APIs.
